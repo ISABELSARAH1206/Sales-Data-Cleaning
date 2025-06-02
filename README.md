@@ -33,7 +33,11 @@ To replace the desired columns or lines , select the desired columns -> go to ho
 type the existing text or value in the "find what" and the text or value that should be replaced in the "replace with "   
 ## 6. Sort  
 we can sort the elements by making a table and then click the arrow near the header , and then click sort A to Z or click old to new or click new to old  
+![image](https://github.com/user-attachments/assets/932686f1-6948-49d8-b148-75d18777112f)  
+We can also find the sum , mean , average .   
+![image](https://github.com/user-attachments/assets/f60e048d-5ec3-4ea7-bcb3-b72cad7a4d14)  
 
+ 
 # QUERIES RELATED TO ABOVE WORK  
 1. **What are missing values, and how do you handle them?**  
 Missing values occur when cells are empty or contain placeholder values like "NA" or "N/A".  
