@@ -31,6 +31,8 @@ I've got no spelling mistakes .
 To replace the desired columns or lines , select the desired columns -> go to home tab -> click find & replace  
 ![image](https://github.com/user-attachments/assets/6604bc3c-acc6-49ec-b056-da87460052fd)  
 type the existing text or value in the "find what" and the text or value that should be replaced in the "replace with "   
+## 6. Sort  
+we can sort the elements by making a table and then click the arrow near the header , and then click sort A to Z or click old to new or click new to old  
 
 # QUERIES RELATED TO ABOVE WORK  
 1. **What are missing values, and how do you handle them?**  
